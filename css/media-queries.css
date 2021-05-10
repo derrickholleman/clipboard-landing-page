@@ -1,0 +1,95 @@
+@media screen and (max-width: 320px) {
+    .footer-right {
+        flex-direction: column;
+        min-height: 90px;
+        align-items: center;
+        margin-right: 0%;
+    }
+    .social-icons {
+        margin-bottom: 1rem;
+        margin-left: 1rem;
+    }
+}
+
+@media screen and (max-width: 375px) {
+    header {
+        background-image: url(../images/bg-header-mobile.png);
+    }
+}
+
+@media screen and (max-width: 408px) {
+    .header-buttons {
+        flex-flow: column;
+        height: 100px;
+    }
+}
+
+/* --------------------- */
+/* SWITCH TO MOBILE VIEW */
+/* --------------------- */
+@media screen and (max-width: 867px) {
+    .laptop-display {
+        flex-direction: column;
+        justify-content: space-between;
+        min-height: 750px;
+    }
+    .laptop-display-text {
+        align-items: center;
+    }
+    .laptop-image {
+        min-width: 100%;
+        max-width: 500px;
+        position: static;
+        padding: 0 1rem;
+    }
+    .laptop-paragraph {
+        text-align: center;
+    }
+    .icons-row1 {
+        flex-direction: column;
+        text-align: center;
+        margin-bottom: 5rem;
+    }
+    .icons-paragraph {
+        margin-bottom: 4rem;
+        min-width: 65vw;
+    }
+    .icons-row2 {
+        flex-direction: column;
+        min-height: 500px;
+    }
+    .header-title {
+        padding: 0 1rem;
+    }
+    .section3-title {
+        padding: 0 1rem;
+    }
+    .footer-container {
+        flex-direction: column;
+    }
+    .footer-left {
+        flex-direction: column;
+    }
+    .footer-grid {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: space-between;
+        margin-bottom: 2rem;
+        min-height: 280px;
+    }
+    .grid-item {
+        font-size: 1.2rem;
+    }
+    .footer-logo {
+        margin-bottom: 2rem;
+    }
+    .footer-right {
+        justify-content: space-around;
+        margin-right: 0%;
+        max-width: 280px;
+    }
+}
+/* --------------------- */
+/* SWITCH TO MOBILE VIEW */
+/* --------------------- */
