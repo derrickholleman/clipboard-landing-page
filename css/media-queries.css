@@ -20,7 +20,7 @@
 @media screen and (max-width: 408px) {
     .header-buttons {
         flex-flow: column;
-        height: 100px;
+        height: 110px;
     }
 }
 
