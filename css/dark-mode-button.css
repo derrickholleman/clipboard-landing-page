@@ -124,7 +124,7 @@ body.dark-mode .dark-mode-button span:nth-child(2) {
 }
 body.dark-mode .dark-mode-button::after {
   content: 'LIGHT';
-  color: #25adde;
+  color: rgb(38, 186, 164);
   transition: .2s;
   right: 11%;
 }
