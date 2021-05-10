@@ -1,5 +1,5 @@
 # clipboard-landing-page
-made a responsive landing page based on template from Frontend Mentor.  Landing page including a simple, but functional dark mode button.
+made a responsive landing page based on a template from Frontend Mentor.  The company landing page includes a simple, but functional dark mode button.
 
 Landing page is responsive for all screen sizes down to 240px. 
 
