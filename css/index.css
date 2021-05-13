@@ -67,6 +67,7 @@ header {
 
 .ios-button {
   background-color: hsl(171, 66%, 44%);
+  box-shadow: 0 3px hsl(171, 68%, 36%); /* slight box shadow with a darker version of the background color */
   opacity: 1;
   transition: .2s ease-out;
 }
@@ -77,6 +78,7 @@ header {
 }
 .mac-button {
   background-color: hsl(233, 100%, 69%);
+  box-shadow: 0 3px hsl(233, 100%, 61%);
   opacity: 1;
   transition: .2s ease-out;
 }
